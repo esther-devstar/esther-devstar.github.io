@@ -1,0 +1,125 @@
+html {
+
+}
+body {
+    background-color: rgb(250, 220, 236);
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+    font-size: 1.5vw;
+    
+}
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family:"Pacifico" , sans-serif ;
+    box-shadow: 8px 8px 10px 3px rgb(178, 64, 174);
+    width: 16%;
+    border-radius: 47%;
+    text-shadow: 3px 3px 6px rgba(109, 46, 151, 0.5);
+}
+
+#nav-ul {
+    display: flex;
+}
+
+#nav-ul > li {
+    padding: 8px;
+    margin: 4px;
+}
+
+ul {
+    margin: 0px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+body > header {
+    background-color: rgb(251, 140, 217);
+    color: rgb(255, 255, 255);
+    display: flex;
+    height: 12vh;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton {
+    color: rgb(255, 255, 255);
+    padding: 12px;
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+h2 {
+    text-align: center;
+}
+
+body > main article {
+    width: 80%;
+    margin: auto;
+    color: rgb(0, 0, 0);
+}
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 1vh;
+    text-decoration: none;
+}
+
+#main-content aside a  {
+
+    color: black;
+}
+
+#main-content > div {
+width: 80%;
+}
+
+body > footer {
+    background-color: rgb(251, 140, 217);
+    text-decoration: none;
+    
+}
+
+footer > div > li {
+   
+}
+
+footer > li {
+    text-decoration: none;
+    
+}
+
+   section > nav > ul {
+    list-style: none;
+    text-decoration: none; 
+}
+
+
+form {
+    margin: 40px ;
+}
+
+h2 {
+    margin: 40px;
+}
+
+input {
+ 
+}
+
+img {
+size: 1vh;
+border-radius: 50%;
+}
+
+
+    
